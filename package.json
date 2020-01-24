@@ -1,0 +1,15 @@
+{
+  "name": "graphql-employee-backend",
+  "version": "1.0.0",
+  "description": "Task given bt 7edge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpitha Gowda H N",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.9",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}
